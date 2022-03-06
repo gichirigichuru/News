@@ -24,6 +24,8 @@ https://intense-sea-08315.herokuapp.com/
 * Python
 * NewsAPI (https://newsapi.org/)
 * Flask
+* HTML
+* bootstrap
 ## Support and contact details
 gichirigichuru@gmail.com
 
