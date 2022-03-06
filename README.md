@@ -26,3 +26,7 @@ https://intense-sea-08315.herokuapp.com/
 * Flask
 ## Support and contact details
 gichirigichuru@gmail.com
+
+### License
+This is under the [MIT](LICENSE) license
+Copyright (c) 2022 **Zachary Gichiri**
